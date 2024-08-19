@@ -1,0 +1,121 @@
+[
+    {
+        "nome": "Giovanni",
+        "cognome": "Pace",
+        "matricola": "AB12345",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Valeria",
+        "cognome": "Verdi",
+        "matricola": "AB12346",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "matricola": "AB12347",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Marika",
+        "cognome": "Mariko",
+        "matricola": "AB12348",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Giovanni",
+        "cognome": "Pace",
+        "matricola": "AB12345",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Valeria",
+        "cognome": "Verdi",
+        "matricola": "AB12346",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "matricola": "AB12347",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Marika",
+        "cognome": "Mariko",
+        "matricola": "AB12348",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Giovanni",
+        "cognome": "Pace",
+        "matricola": "AB12345",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Valeria",
+        "cognome": "Verdi",
+        "matricola": "AB12346",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "matricola": "AB12347",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Marika",
+        "cognome": "Mariko",
+        "matricola": "AB12348",
+        "corso": "Economia"
+    },{
+        "nome": "Giovanni",
+        "cognome": "Pace",
+        "matricola": "AB12345",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Valeria",
+        "cognome": "Verdi",
+        "matricola": "AB12346",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "matricola": "AB12347",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Marika",
+        "cognome": "Mariko",
+        "matricola": "AB12348",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Giovanni",
+        "cognome": "Pace",
+        "matricola": "AB12345",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Valeria",
+        "cognome": "Verdi",
+        "matricola": "AB12346",
+        "corso": "Ingegneria Informatica"
+    },
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "matricola": "AB12347",
+        "corso": "Economia"
+    },
+    {
+        "nome": "Marika",
+        "cognome": "Mariko",
+        "matricola": "AB12348",
+        "corso": "Economia"
+    }
+]
